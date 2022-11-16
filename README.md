@@ -1,0 +1,1 @@
+This project is to create a website that displays several recipes (and practice web coding as a side benefit)
